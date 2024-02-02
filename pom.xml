@@ -9,7 +9,7 @@
 		<module>gs-support</module>
 	</modules>
 	<properties>
-		<spring.version>5.2.20.RELEASE</spring.version>
+		<spring.version>5.2.22.RELEASE</spring.version>
 		<gs.version>9.7.0-10496-RELEASE</gs.version>
 		<slf4j.version>1.6.4</slf4j.version>
 	</properties>
